@@ -1,0 +1,5 @@
+@tailwind components;
+
+.prose-custom {
+  @apply prose prose-lg dark:prose-invert max-w-4xl break-words;
+}
